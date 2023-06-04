@@ -1,0 +1,19 @@
+Package: datasetUtils
+Type: Package
+Title: Paquete para la gestión de datasets
+Version: 0.0.1
+Author: Muitze Zulaika Gallastegi [aut]
+Maintainer: Muitze Zulaika Gallastegi <mzulaika002@ikasle.ehu.eus>
+Suggests: 
+  ggplot2,
+  reshape2,
+  rmarkdown,
+  knitr
+Description: Paquete para la gestión de datasets
+License: GPL (>= 2)
+Encoding: UTF-8
+BuildVignettes: TRUE
+VignetteBuilder: 
+  knitr, 
+  rmarkdown
+RoxygenNote: 7.1.1
